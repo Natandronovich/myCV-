@@ -162,8 +162,8 @@ html {
 }
 
 .pre-code{
-    display: flex;
-    justify-content: flex-end;
+    padding: 0;
+    margin: 0;
 }
 
 .footer{
